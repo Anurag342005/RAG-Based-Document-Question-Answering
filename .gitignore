@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environment
+venv/
+.env/
+
+# Environment Variables
+.env
+
+# Chroma Database
+chroma_db/
+
+# Uploaded PDFs
+data/*.pdf
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
