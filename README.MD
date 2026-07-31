@@ -167,17 +167,13 @@ http://localhost:8501
 ## 📸 Screenshots
 
 ### Home Page
-
-_Add screenshot here_
+![Home](screenshots/home.png)
 
 ### PDF Upload
-
-_Add screenshot here_
+![Upload](screenshots/upload.png)
 
 ### Generated Answer
-
-_Add screenshot here_
-
+![Answer](screenshots/answer.png)
 ---
 
 ## 🎯 Future Improvements
